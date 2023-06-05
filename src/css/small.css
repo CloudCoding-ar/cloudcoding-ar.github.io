@@ -12,6 +12,7 @@ header, nav, #wrapper{
     margin-right: 0;
     clear: both;
     justify-content: center;
+    text-align: center;
 }
 
 #barra-navegacion {
