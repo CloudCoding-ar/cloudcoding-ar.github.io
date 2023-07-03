@@ -26,6 +26,11 @@ a {
     text-decoration: none;
 }
 
+nav {
+    position: sticky;
+    top: 0px
+}
+
 nav ul {
     display: flex;
     list-style-type: none;

@@ -2,7 +2,7 @@ display-small {
     display: inherit !important;
 }
 
-header, nav, #wrapper{
+header, nav, #wrapper, footer{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: 100%;
     display: flex;
